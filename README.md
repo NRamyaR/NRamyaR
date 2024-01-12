@@ -1,13 +1,13 @@
-<h1 align="center">Hello I'm Ramya N R</h1>
-<h3 align="center">I am Frontend Developer </h3>
+<h1 >Hi there, I'm Ramya N R 👋</h1>
 
+<h2>I am Frontend Developer!!</h2>
 
-
-- I’m currently learning **React js, System Design**
-
-- Ask me about **React, Javascript**
-
-- How to reach me **lrramya96@gmail.com**
+<ol>
+<li>🌱I'm Currently learning Frontend TechStack </li>
+<li>🥅 2024 Goal:Learn more Sysytem Design</li>
+<li>⚡️Fun Fact:Love to Read books,love to draw </li>
+  
+</ol>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
