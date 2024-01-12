@@ -2,12 +2,12 @@
 
 <h2>I am Frontend Developer!!</h2>
 
-<ol>
+
 <li>🌱I'm Currently learning Frontend TechStack </li>
 <li>🥅 2024 Goal:Learn more Sysytem Design</li>
 <li>⚡️Fun Fact:Love to Read books,love to draw </li>
   
-</ol>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
